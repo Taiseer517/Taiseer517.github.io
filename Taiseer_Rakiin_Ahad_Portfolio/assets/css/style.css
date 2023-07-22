@@ -1,0 +1,30 @@
+<style>
+  /* CSS styles for the background image */
+  body {
+    background-image: url("images/bg.jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-color: #000000;
+  }
+
+  .logo {
+    text-align: center;
+  }
+
+  .logo img {
+    width: 200px;
+    border-radius: 50%;
+    margin-top: -50px; 
+  }
+
+  #work {
+    text-align: center;
+  }
+
+  #work img {
+    width: 300px;
+    display: block;
+    margin: 0 auto; 
+  }
+</style>
